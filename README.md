@@ -1,6 +1,5 @@
 ## React pizza store
 
-## Available Scripts
 ### `npm start`
 
 Runs the app 
