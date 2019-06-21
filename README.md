@@ -1,4 +1,4 @@
-##react pizza store
+## React pizza store
 
 ## Available Scripts
 ### `npm start`
